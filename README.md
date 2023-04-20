@@ -1,2 +1,2 @@
-# Ci-ncia-de-dados-iniciant
+# Ciência de dados iniciante
 Preparação e análise de dados
